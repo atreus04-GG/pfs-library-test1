@@ -17,6 +17,21 @@
       "sizeBytes": 171400626176
     },
     {
+      "titleId": "PPSA07631",
+      "title": "SAROS",
+      "version": "1.000.000",
+      "category": "game",
+      "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyJrI8DaPUM0k-jeuGIDBxmwvuGnp0b8_BkooTH1F93JKsDOzCGMja6maC&s=10",
+      "description": "Tags: PPSA07631, v01.000.000, EUR, 5.xx +, APR",
+      "downloadLinks": [
+        {
+          "name": "Viki (Credits: TeamPHU)",
+          "url": "aHR0cHM6Ly92aWtpbmdmaWxlLmNvbS9mLzRYMWswYlVnaGw="
+        }
+      ],
+      "sizeBytes": 88293515326
+    },
+    {
       "titleId": "PPSA01870",
       "title": "FarCry 6",
       "version": "1.000.013",
