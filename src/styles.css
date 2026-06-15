@@ -113,6 +113,14 @@ body {
 
 main { padding: 32px; max-width: 1400px; margin: 0 auto; }
 
+.ad-unit {
+  max-width: 1400px;
+  margin: 16px auto 0;
+  padding: 0 32px;
+  min-height: 90px;
+  text-align: center;
+}
+
 .site-footer {
   max-width: 1400px;
   margin: 0 auto;

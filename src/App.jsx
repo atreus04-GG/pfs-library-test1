@@ -9,6 +9,7 @@ import ThanksModal from './components/ThanksModal.jsx';
 import CreditsModal from './components/CreditsModal.jsx';
 import HowToModal from './components/HowToModal.jsx';
 import CaptchaGate from './components/CaptchaGate.jsx';
+import AdUnit from './components/AdUnit.jsx';
 
 const PAGE_SIZE = 10;
 const THANKS_DISMISSED_KEY = 'pfs-thanks-dismissed';
@@ -185,6 +186,7 @@ export default function App() {
         onShowHowTo={() => setShowHowTo(true)}
       />
       <main>{renderBody()}</main>
+      <AdUnit />
       <footer className="site-footer">
         <p>
           <strong>DMCA Disclaimer:</strong> All files referenced in this catalog are
