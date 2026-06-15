@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import Modal from './Modal.jsx';
-import CaptchaChallenge from './CaptchaChallenge.jsx';
+import Turnstile from './Turnstile.jsx';
 import { formatBytes, getTags, isUploadingLink } from '../utils/format.js';
 
 export default function GameDetailsModal({ pkg, onClose }) {
@@ -45,9 +45,9 @@ export default function GameDetailsModal({ pkg, onClose }) {
             <div className="link-captcha">
               <h3>Links</h3>
               <p className="muted">Verify you're human to reveal the links.</p>
-              <CaptchaChallenge
+              <Turnstile
                 onVerified={() => setUnlocked(true)}
-                submitLabel="Reveal Links"
+                action="reveal-links"
               />
             </div>
           ) : (

@@ -1,4 +1,4 @@
-import CaptchaChallenge from './CaptchaChallenge.jsx';
+import Turnstile from './Turnstile.jsx';
 
 export default function CaptchaGate({ onVerified }) {
   return (
@@ -9,7 +9,7 @@ export default function CaptchaGate({ onVerified }) {
         <p className="captcha-sub">
           Complete the challenge below to access the library.
         </p>
-        <CaptchaChallenge onVerified={onVerified} submitLabel="Verify & Enter" />
+        <Turnstile onVerified={onVerified} action="enter-library" />
       </div>
     </div>
   );
