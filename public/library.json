@@ -17,6 +17,44 @@
       "sizeBytes": 171400626176
     },
     {
+      "titleId": "PPSA01474",
+      "title": "Ratchet & Clank Rift Apart",
+      "version": "1.005.003",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Ratchet_and_Clank_Rift_Apart.avif",
+      "description": "Tags: PPSA01474, v01.005.003, EUR, 4.xx BackPork, APR",
+      "downloadLinks": [
+        {
+          "name": "Viki (Credits: Estong)",
+          "url": "aHR0cHM6Ly92aWsxbmdmaWxlLnNpdGUvZi9TRGxjaElRVkM1I1BQU0EwMTQ3NA=="
+        },
+        {
+          "name": "FileKeeper",
+          "url": "aHR0cHM6Ly9maWxla2VlcGVyLm5ldC95NnRpdjBvMW8xcjMvUFBTQTAxNDc0X1JhdGNoZXRfQ2xhbmtfUmlmdF9BcGFydF8oMDEuMDAzLjAwMSkuZmZwZnNj"
+        }
+      ],
+      "sizeBytes": 47040737853.44
+    },
+    {
+      "titleId": "PPSA07230",
+      "title": "Assassins Creed Mirage",
+      "version": "1.012",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Assassins_Creed_Mirage.avif",
+      "description": "Tags: PPSA07230, v01.012, USA to EUR Languages, 9.xx +",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "aHR0cHM6Ly92aWtpbmdmaWxlLmNvbS9mLzc5MVI5d3BIMzg="
+        },
+        {
+          "name": "FileKeeper",
+          "url": "aHR0cHM6Ly9maWxla2VlcGVyLm5ldC9lcG80b2JuZjBpazcvUFBTQTA3MjMwXy1fQXNzYXNzaW5zX0NyZWVkX01pcmFnZS5mZnBmc2M="
+        }
+      ],
+      "sizeBytes": 70327547658
+    },
+    {
       "titleId": "PPSA28180",
       "title": "Days Gone Remastered",
       "version": "1.036.178",
@@ -471,21 +509,6 @@
       "sizeBytes": 38384500736
     },
     {
-      "titleId": "PPSA01474",
-      "title": "Ratchet & Clank Rift Apart",
-      "version": "1.005.003",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Ratchet_and_Clank_Rift_Apart.avif",
-      "description": "Tags: PPSA01474, v01.005.003, EUR, 4.xx BackPork, APR",
-      "downloadLinks": [
-        {
-          "name": "Viki (Credits: Estong)",
-          "url": "aHR0cHM6Ly92aWsxbmdmaWxlLnNpdGUvZi9TRGxjaElRVkM1I1BQU0EwMTQ3NA=="
-        }
-      ],
-      "sizeBytes": 47040737853.44
-    },
-    {
       "titleId": "PPSA03016",
       "title": "Marvels Spider Man 2 Deluxe Edition",
       "version": "1.004.003",
@@ -500,21 +523,6 @@
       ],
       "notes":"How to play: Make sure you manually save the game before exit.",
       "sizeBytes": 123952756162.56
-    },
-    {
-      "titleId": "PPSA07230",
-      "title": "Assassins Creed Mirage",
-      "version": "1.012",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Assassins_Creed_Mirage.avif",
-      "description": "Tags: PPSA07230, v01.012, USA to EUR Languages, 9.xx +",
-      "downloadLinks": [
-        {
-          "name": "Viki",
-          "url": "aHR0cHM6Ly92aWtpbmdmaWxlLmNvbS9mLzc5MVI5d3BIMzg="
-        }
-      ],
-      "sizeBytes": 70327547658
     },
     {
       "titleId": "PPSA02530",
@@ -546,6 +554,10 @@
         {
           "name": "Viki",
           "url": "aHR0cHM6Ly92aWtpbmdmaWxlLmNvbS9mL0h3OGxNZDJ1SDg="
+        },
+        {
+          "name": "FileKeeper",
+          "url": "aHR0cHM6Ly9maWxla2VlcGVyLm5ldC84dTV2YjVtdG1odzcvUFBTQTI1Mjg2Xy1fQ3JpbXNvbl9EZXNlcnQuZmZwZnNj"
         }
       ],
       "notes":"How to play: Press START/Options - Add-on right after starting a new game. You can equip them after the prologue.",
