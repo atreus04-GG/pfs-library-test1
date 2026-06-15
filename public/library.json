@@ -17,6 +17,21 @@
       "sizeBytes": 171400626176
     },
     {
+      "titleId": "PPSA04609",
+      "title": "ELDEN RING Shadow of the Erdtree Edition",
+      "version": "1.017",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0713/d956c0df3a0cfe7c1b8e81c684ecff8a9a141c4f1f38578c.png",
+      "description": "Tags: PPSA04609, v01.017, EUR, 3.xx +",
+      "downloadLinks": [
+        {
+          "name": "Viki (Credits: TeamPHU)",
+          "url": "aHR0cHM6Ly92aWsxbmdmaWxlLnNpdGUvZi82czdTdW9rS1pS"
+        }
+      ],
+      "sizeBytes": 96884265791.52
+    },
+    {
       "titleId": "PPSA03524",
       "title": "Grand Theft Auto San Andreas The Definitive Edition",
       "version": "1.003",
