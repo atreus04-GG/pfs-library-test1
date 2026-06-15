@@ -17,6 +17,21 @@
       "sizeBytes": 171400626176
     },
     {
+      "titleId": "PPSA03524",
+      "title": "Grand Theft Auto San Andreas The Definitive Edition",
+      "version": "1.003",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2814/4adJ0gjnFRysR59iJSZJFQ1J.png",
+      "description": "Tags: PPSA03524, v01.003, USA, 3.xx +",
+      "downloadLinks": [
+        {
+          "name": "Viki (Credits: Wali)",
+          "url": "aHR0cHM6Ly92aWsxbmdmaWxlLnNpdGUvZi91TWg4T3FEWExw"
+        }
+      ],
+      "sizeBytes": 22505628631.04
+    },
+    {
       "titleId": "PPSA13195",
       "title": "Stellar Blade",
       "version": "1.014.001",
@@ -59,7 +74,7 @@
       "description": "Tags: PPSA01870, v01.000.013, EUR, 4.xx +, APR",
       "downloadLinks": [
         {
-          "name": "Viki",
+          "name": "Viki (Credits: Wali)",
           "url": "aHR0cHM6Ly92aWsxbmdmaWxlLnNpdGUvZi94ODF3VVd1T2xM"
         }
       ],
