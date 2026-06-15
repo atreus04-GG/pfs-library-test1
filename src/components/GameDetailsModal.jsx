@@ -51,6 +51,11 @@ export default function GameDetailsModal({ pkg, onClose }) {
               />
             </div>
           ) : (
+          <>
+          <p className="link-hint">
+            Links are <strong>Base64 encoded</strong>. Decode them using an online
+            decoder to access the links.
+          </p>
           <ul className="link-list">
             {links.map((link, i) => {
               const uploading = isUploadingLink(link);
@@ -71,6 +76,7 @@ export default function GameDetailsModal({ pkg, onClose }) {
               );
             })}
           </ul>
+          </>
           )
         ) : (
           <p className="muted">No links available.</p>

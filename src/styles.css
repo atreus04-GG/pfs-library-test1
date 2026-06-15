@@ -415,6 +415,18 @@ main { padding: 32px; max-width: 1400px; margin: 0 auto; }
   padding: 12px 14px;
 }
 
+.link-hint {
+  margin: 1.5rem 0 0;
+  color: #fca5a5;
+  font-size: 0.85rem;
+  line-height: 1.5;
+  background: rgba(220, 38, 38, 0.12);
+  border: 1px solid rgba(248, 113, 113, 0.45);
+  border-radius: 8px;
+  padding: 10px 12px;
+}
+.link-hint strong { color: #fecaca; }
+
 .link-list {
   list-style: none;
   padding: 0;
@@ -422,7 +434,7 @@ main { padding: 32px; max-width: 1400px; margin: 0 auto; }
   display: flex;
   flex-direction: column;
   gap: 8px;
-  margin-top: 1.5rem;
+  margin-top: 12px;
 }
 .link-list li {
   display: flex;

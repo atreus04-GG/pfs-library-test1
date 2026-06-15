@@ -7,6 +7,7 @@ import GameDetailsModal from './components/GameDetailsModal.jsx';
 import Pagination from './components/Pagination.jsx';
 import ThanksModal from './components/ThanksModal.jsx';
 import CreditsModal from './components/CreditsModal.jsx';
+import HowToModal from './components/HowToModal.jsx';
 import CaptchaGate from './components/CaptchaGate.jsx';
 
 const PAGE_SIZE = 10;
@@ -43,6 +44,7 @@ export default function App() {
   const [viewMode, setViewMode] = useState('grid');
   const [selected, setSelected] = useState(null);
   const [showCredits, setShowCredits] = useState(false);
+  const [showHowTo, setShowHowTo] = useState(false);
   const [page, setPage] = useState(1);
   const [showThanks, setShowThanks] = useState(() => {
   try {
@@ -116,6 +118,7 @@ export default function App() {
       if (e.key === 'Escape') {
         setSelected(null);
         setShowCredits(false);
+        setShowHowTo(false);
         dismissThanks();
       }
     };
@@ -179,6 +182,7 @@ export default function App() {
         viewMode={viewMode}
         onToggleView={() => setViewMode(v => v === 'grid' ? 'list' : 'grid')}
         onShowCredits={() => setShowCredits(true)}
+        onShowHowTo={() => setShowHowTo(true)}
       />
       <main>{renderBody()}</main>
       <footer className="site-footer">
@@ -191,6 +195,7 @@ export default function App() {
       </footer>
       {showThanks && <ThanksModal onClose={dismissThanks} />}
       {showCredits && <CreditsModal onClose={() => setShowCredits(false)} />}
+      {showHowTo && <HowToModal onClose={() => setShowHowTo(false)} />}
       {selected && (
         <GameDetailsModal pkg={selected} onClose={() => setSelected(null)} />
       )}
