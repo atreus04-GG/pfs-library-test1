@@ -1,0 +1,540 @@
+{
+  "name": "PFS Game Catalog",
+  "packages": [
+    {
+      "titleId": "PPSA08668",
+      "title": "Final Fantasy VII Rebirth",
+      "version": "1.080",
+      "category": "game",
+      "posterUrl": "https://cdn11.bigcommerce.com/s-6rs11v9w2d/images/stencil/1280x1280/products/3054/16401/FFVII_RB_AG_US__55522.1709208257.jpg?c=1",
+      "description": "Tags: PPSA08668, v01.080, EUR, 12.xx to 9.xx",
+      "downloadLinks": [
+        {
+          "name": "Uploading...",
+          "url": ""
+        }
+      ],
+      "sizeBytes": 171400626176
+    },
+    {
+      "titleId": "PPSA01870",
+      "title": "FarCry 6",
+      "version": "1.000.013",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/img/rnd/202106/1514/xqoTYwf0S55ro6fwcIIY1KI4.png",
+      "description": "Tags: PPSA01870, v01.000.013, EUR, 4.xx +, APR",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "aHR0cHM6Ly92aWsxbmdmaWxlLnNpdGUvZi94ODF3VVd1T2xM"
+        }
+      ],
+      "sizeBytes": 124221191618.56
+    },
+    {
+      "titleId": "PPSA22327",
+      "title": "Forza Horizon 5",
+      "version": "1.685.672",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202501/2717/42b3ee6b1b2094212231b0b0a82824f687fc5c4dc9bde31c.png",
+      "description": "Tags: PPSA22327, v01.685.672, USA, 12.xx – 10.xx",
+      "downloadLinks": [
+        {
+          "name": "Viki (Credits: Roy Choo)",
+          "url": "aHR0cHM6Ly92aWsxbmdmaWxlLnNpdGUvZi9CR1ZuR1hBcm1rI1BQU0EyMjMyNw=="
+        }
+      ],
+      "notes": "How to Play (Ignore if you already have account with fake sign in): Download offact by ps5-payload-dev and active the account (better if is a new one) then download np-fake-signin by earthonion, send the .elf to your PS5 and before restart the console on your connection add this DNS “127.0.0.1” or turn off the connection.",
+      "sizeBytes": 175191019683.84
+    },
+    {
+      "titleId": "PPSA15211",
+      "title": "Dragon Ball Sparking Zero",
+      "version": "2.017",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202405/2213/caf3b629a8afbc72a94ec15a568a898ac1845231398d77ac.png",
+      "description": "Tags: PPSA15211, v02.017, USA, 9.xx +",
+      "downloadLinks": [
+        {
+          "name": "Viki (Credits: Roy Choo)",
+          "url": "aHR0cHM6Ly92aWtpbmdmaWxlLmNvbS9mLzdMaGxkMlBpNWMjUFBTQTE1MjEx"
+        }
+      ],
+      "sizeBytes": 33479226695.68
+    },
+    {
+      "titleId": "PPSA24701",
+      "title": "Digimon Story Time Stranger",
+      "version": "1.011",
+      "category": "game",
+      "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvyM-BcNEfGLfTx8Mfo9ceR-wpr870Il5WSE95wp5e0XDvQlbVSv3WktQ&s=10",
+      "description": "Tags: PPSA24701, v01.011, EUR, 10.xx +, APR",
+      "downloadLinks": [
+        {
+          "name": "Viki (Credits: Roy Choo)",
+          "url": "aHR0cHM6Ly92aWsxbmdmaWxlLnNpdGUvZi9SZlBBeURhZ05pI1BQU0EyNDcwMQ=="
+        }
+      ],
+      "sizeBytes": 23418309181
+    },
+    {
+      "titleId": "PPSA01576",
+      "title": "Avatar: Frontiers of Pandora",
+      "version": "1.020",
+      "category": "game",
+      "posterUrl": "https://upload.wikimedia.org/wikipedia/en/5/53/Avatar_Frontiers_of_Pandora_cover.jpg",
+      "description": "Tags: PPSA01576, v01.020, USA, 12.xx to 7.xx, APR",
+      "downloadLinks": [
+        {
+          "name": "Viki (Credits: Roy Choo)",
+          "url": "aHR0cHM6Ly92aWsxbmdmaWxlLnNpdGUvZi9WUlY5OVFtb0FiI1BQU0EwMTU3Ng=="
+        }
+      ],
+      "sizeBytes": 110186719109
+    },
+    {
+      "titleId": "PPSA25258",
+      "title": "Ninja Gaiden 4",
+      "version": "1.004",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202501/2115/cadb8f4c0e96d1f406a81cda594e290c86bf283722d04aa5.png",
+      "description": "Tags: PPSA25258, v01.004, USA, 12.xx to 10.xx, APR",
+      "downloadLinks": [
+        {
+          "name": "Viki (Credits: Jason)",
+          "url": "aHR0cHM6Ly92aWsxbmdmaWxlLnNpdGUvZi8wNHp1RE9ObGMw"
+        }
+      ],
+      "sizeBytes": 32555837050.88
+    },
+    {
+      "titleId": "PPSA28101",
+      "title": "Life is Strange Reunion",
+      "version": "1.000",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202512/0417/9c35156a43661a69e4fa0e3e913e956946ef20e1c42abe9a.png",
+      "description": "Tags: PPSA28101, v01.000, EUR, 4.xx +",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "aHR0cHM6Ly92aWtpbmdmaWxlLmNvbS9mL1dkTXVrVGU1WlE="
+        },
+        {
+          "name": "DLCs (PKG – DUPLEX)",
+          "url": "aHR0cHM6Ly9ha2lyYWJveC5jb20vMVJnelJOUExWemJwL2ZpbGU="
+        }
+      ],
+      "sizeBytes": 22774546432
+    },
+    {
+      "titleId": "PPSA30094",
+      "title": "High on Life 2",
+      "version": "1.100.100",
+      "category": "game",
+      "posterUrl": "https://upload.wikimedia.org/wikipedia/en/3/3e/High_on_Life_2_cover_art.jpg",
+      "description": "Tags: PPSA30094, v01.100.100, USA, 4.xx +",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "aHR0cHM6Ly92aWtpbmdmaWxlLmNvbS9mL1h4U3U0RnlOOEU="
+        }
+      ],
+      "sizeBytes": 62618599424
+    },
+    {
+      "titleId": "PPSA08560",
+      "title": "Split Fiction",
+      "version": "1.500",
+      "category": "game",
+      "posterUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Split_Fiction_cover_art.jpg/250px-Split_Fiction_cover_art.jpg",
+      "description": "Tags: PPSA08560, v01.500, USA, 4.xx +",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "aHR0cHM6Ly92aWtpbmdmaWxlLmNvbS9mL3F1a3o1Z0lKekI="
+        },
+        {
+          "name": "FULL GAME UNLOCK (DUPLEX – PKG)",
+          "url":"aHR0cHM6Ly9ha2lyYWJveC50by8wS2V6a0RiVzFHRDEvZmlsZQ=="
+        }
+      ],
+      "notes":"Note: Install the title (.pfs) then FULL GAME UNLOCK by DUPLEX.",
+      "sizeBytes": 85621080064
+    },
+    {
+      "titleId": "PPSA02100",
+      "title": "Banishers Ghosts of New Eden",
+      "version": "1.005.000",
+      "category": "game",
+      "posterUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Banishers_Ghosts_of_New_Eden_cover_art.jpg/250px-Banishers_Ghosts_of_New_Eden_cover_art.jpg",
+      "description": "Tags: PPSA02100, v01.005.000, EUR, 4.xx +",
+      "downloadLinks": [
+        {
+          "name": "Viki (Credits: Jason)",
+          "url": "aHR0cHM6Ly92aWsxbmdmaWxlLnNpdGUvZi9pUlZySDFtcFkzI1BQU0ExMDA1MyUyMEJhbmlzaGVycyUyMEdob3N0cyUyMG9mJTIwTmV3JTIwRWRlbiUyMCgwMS4wMDUuMDAwKS5mZnBmc2M="
+        }
+      ],
+      "sizeBytes": 59442347376.64
+    },
+    {
+      "titleId": "PPSA02100",
+      "title": "Stray",
+      "version": "1.005.000",
+      "category": "game",
+      "posterUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Stray_cover_art.jpg/250px-Stray_cover_art.jpg",
+      "description": "Tags: PPSA02100, v01.005.000, USA, 4.xx +",
+      "downloadLinks": [
+        {
+          "name": "Viki (Credits: Jason)",
+          "url": "aHR0cHM6Ly92aWtpbmdmaWxlLmNvbS9mLzY5b2w1UFp0WWYjUFBTQTAyMTAw"
+        }
+      ],
+      "sizeBytes": 8505325772.8
+    },
+    {
+      "titleId": "PPSA03500",
+      "title": "New Tales from the Borderlands®",
+      "version": "1.002",
+      "category": "game",
+      "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTZDQqpfUzFJVcpO77oQBWOI9NqDGQB6Sotg&s",
+      "description": "Tags: PPSA03500, v01.002, EUR, 4.xx +",
+      "downloadLinks": [
+        {
+          "name": "Viki (Credits: Arjay)",
+          "url": "aHR0cHM6Ly92aWtpbmdmaWxlLmNvbS9mL0t1enRRRVVXbWojUFBTQTAzNTAwLmZmcGZzYw=="
+        }
+      ],
+      "sizeBytes": 30082876416.64
+    },
+    {
+      "titleId": "PPSA13579",
+      "title": "BLASPHEMOUS",
+      "version": "1.007.000",
+      "category": "game",
+      "posterUrl": "https://upload.wikimedia.org/wikipedia/en/c/cd/Blasphemous_%28video_game%29.jpg",
+      "description": "Tags: PPSA13579, v01.007.000, EUR, Backport 4.xx + + DLC",
+      "downloadLinks": [
+        {
+          "name": "Viki (Credits: Jmc)",
+          "url": "aHR0cHM6Ly92aWtpbmdmaWxlLmNvbS9mL05TZEtWYllEanojUFBTQTEzNTc5"
+        }
+      ],
+      "sizeBytes": 2673286737.92
+    },
+    {
+      "titleId": "PPSA17905",
+      "title": "Horizon Forbidden West",
+      "version": "1.030",
+      "category": "game",
+      "posterUrl": "https://cdn.shopify.com/s/files/1/0516/3873/0931/files/horizon-forbidden-west-complete-edition-playstation-5-711719577973-51063373463898_600x600_crop_center.jpg?v=1696405433",
+      "description": "Tags: PPSA17905, v01.030, USA, 12.xx to 7.xx, APR",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "aHR0cHM6Ly92aWtpbmdmaWxlLmNvbS9mL0Z4aEVuVmhCZ3Q="
+        }
+      ],
+      "sizeBytes": 128900464640
+    },
+    {
+      "titleId": "PPSA07274",
+      "title": "TALES OF ARISE",
+      "version": "1.04",
+      "category": "game",
+      "posterUrl": "https://m.media-amazon.com/images/I/61rjUCFLVaL._AC_UF1000,1000_QL80_.jpg",
+      "description": "Tags: PPSA07274, v01.04, USA, 1.xx +",
+      "downloadLinks": [
+        {
+          "name": "Viki (Credits: Jmc)",
+          "url": "aHR0cHM6Ly92aWtpbmdmaWxlLmNvbS9mL0cxMnRLcWhxZE0jVEFMRVM="
+        }
+      ],
+      "sizeBytes": 40265318400
+    },
+    {
+      "titleId": "PPSA07570",
+      "title": "Mortal Kombat 1",
+      "version": "1.010.001",
+      "category": "game",
+      "posterUrl": "https://upload.wikimedia.org/wikipedia/en/5/5b/Mortal_Kombat_1_key_art.jpeg",
+      "description": "Tags: PPSA07570, v01.010.001, USA, 4.xx +, Standard + BackPork Ver, APR",
+      "downloadLinks": [
+        {
+          "name": "Viki (Credits: Ultimate Jailbreak Pinas Sensei)",
+          "url": "aHR0cHM6Ly92aWsxbmdmaWxlLnNpdGUvZi9JQ1FPTUdNRlFw"
+        },
+        {
+          "name": "30 DLCs - Viki (Credits: Ultimate Jailbreak Pinas Sensei)",
+          "url": "aHR0cHM6Ly92aWsxbmdmaWxlLnNpdGUvZi9YYUJxVjlPbm9L"
+        }
+      ],
+      "sizeBytes": 174192523755.52
+    },
+    {
+      "titleId": "PPSA0724",
+      "title": "VALKYRIE ELYSIUM",
+      "version": "1.00",
+      "category": "game",
+      "posterUrl": "https://m.media-amazon.com/images/I/818u21+h7xL.jpg",
+      "description": "Tags: PPSA0724, v01.00, USA, 4.xx +",
+      "downloadLinks": [
+        {
+          "name": "Viki (Credits: Jmc)",
+          "url": "aHR0cHM6Ly92aWsxbmdmaWxlLnNpdGUvZi9aV200MnlObGlj"
+        }
+      ],
+      "sizeBytes": 15783004812.8
+    },
+    {
+      "titleId": "PPSA23372",
+      "title": "REANIMAL",
+      "version": "1.06",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/REANIMAL.jpg",
+      "description": "Tags: PPSA23372, v01.06, EUR, 4.xx +",
+      "downloadLinks": [
+        {
+          "name": "Viki (Credits: Jmc)",
+          "url": "aHR0cHM6Ly92aWsxbmdmaWxlLnNpdGUvZi9pSDJUMHJEQ2JMI1JFQU5JTUFM"
+        }
+      ],
+      "sizeBytes": 12906395156.48
+    },
+    {
+      "titleId": "PPSA02015",
+      "title": "Death Stranding 2 On The Beach",
+      "version": "1.013",
+      "category": "game",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BYmVkNDM3MzUtN2YyYS00MDg0LWIxN2EtMjQ2ZGQ1ZDhlZWY4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "description": "Tags: PPSA02015, v01.013, USA, 12.xx to 11.xx, APR",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "aHR0cHM6Ly92aWtpbmdmaWxlLmNvbS9mL0F5S2V3bk9oa24="
+        }
+      ],
+      "sizeBytes": 101437276160
+    },
+    {
+      "titleId": "PPSA13195",
+      "title": "Stellar Blade",
+      "version": "1.014.001",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Stellar_Blade.webp",
+      "description": "Tags: PPSA13195, v01.014.001, JPN, 9.xx +, APR",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "aHR0cHM6Ly92aWtpbmdmaWxlLmNvbS9mL0NMMXI5cnVQaXA="
+        }
+      ],
+      "sizeBytes": 44410470400
+    },
+    {
+      "titleId": "PPSA31246",
+      "title": "Resident Evil Requiem Deluxe Edition",
+      "version": "1.200",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Resident_Evil_Requiem_Deluxe_Edition.avif",
+      "description": "Tags: PPSA31246, v01.200, EUR, 4.xx +",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "aHR0cHM6Ly92aWtpbmdmaWxlLmNvbS9mL0xRRHBoT0E4eUs="
+        }
+      ],
+      "sizeBytes": 82690899968
+    },
+    {
+      "titleId": "PPSA20396",
+      "title": "Assassins Creed Shadows",
+      "version": "1.019.076",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Assassins_Creed_Shadows.avif",
+      "description": "Tags: PPSA20396, v01.019.076, USA to EUR Languages, 4.xx +, APR",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "aHR0cHM6Ly92aWtpbmdmaWxlLmNvbS9mLzFjUzJjejFLVmM="
+        }
+      ],
+      "sizeBytes": 152070520832
+    },
+    {
+      "titleId": "PPSA10595",
+      "title": "TEKKEN 8",
+      "version": "2.006.001",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/TEKKEN_8.png",
+      "description": "Tags: PPSA10595, v02.006.001, USA, 4.xx +",
+      "downloadLinks": [
+        {
+          "name": "Viki (Credits: Estong)",
+          "url": "aHR0cHM6Ly92aWsxbmdmaWxlLnNpdGUvZi9nOVNJdnJTeFlKI1BQU0ExMDU5NS5mZnBmc2M="
+        }
+      ],
+      "sizeBytes": 108941175767.04
+    },
+    {
+      "titleId": "PPSA16384",
+      "title": "Directive 8020 Deluxe Edition",
+      "version": "1.000",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Directive_8020_Deluxe_Edition.avif",
+      "description": "Tags: PPSA16384, v1.000, EUR, 4.xx +",
+      "downloadLinks": [
+        {
+          "name": "Viki (Credits: Arjay)",
+          "url": "aHR0cHM6Ly92aWsxbmdmaWxlLnNpdGUvZi9Fd2EyV1M1M09L"
+        }
+      ],
+      "sizeBytes": 38384500736
+    },
+    {
+      "titleId": "PPSA01474",
+      "title": "Ratchet & Clank Rift Apart",
+      "version": "1.005.003",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Ratchet_and_Clank_Rift_Apart.avif",
+      "description": "Tags: PPSA01474, v01.005.003, EUR, 4.xx BackPork, APR",
+      "downloadLinks": [
+        {
+          "name": "Viki (Credits: Estong)",
+          "url": "aHR0cHM6Ly92aWsxbmdmaWxlLnNpdGUvZi9TRGxjaElRVkM1I1BQU0EwMTQ3NA=="
+        }
+      ],
+      "sizeBytes": 47040737853.44
+    },
+    {
+      "titleId": "PPSA03016",
+      "title": "Marvels Spider Man 2 Deluxe Edition",
+      "version": "1.004.003",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Marvels_Spider Man_2_Deluxe_Edition.avif",
+      "description": "Tags: PPSA03016, v01.004.003, USA to EUR Languages, 4.xx BackPork, APR",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "aHR0cHM6Ly92aWtpbmdmaWxlLmNvbS9mL3ZKS3ByYTFHcjk="
+        }
+      ],
+      "notes":"How to play: Make sure you manually save the game before exit.",
+      "sizeBytes": 123952756162.56
+    },
+    {
+      "titleId": "PPSA07230",
+      "title": "Assassins Creed Mirage",
+      "version": "1.012",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Assassins_Creed_Mirage.avif",
+      "description": "Tags: PPSA07230, v01.012, USA to EUR Languages, 9.xx +",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "aHR0cHM6Ly92aWtpbmdmaWxlLmNvbS9mLzc5MVI5d3BIMzg="
+        }
+      ],
+      "sizeBytes": 70327547658
+    },
+    {
+      "titleId": "PPSA02530",
+      "title": "PRAGMATA Deluxe Edition",
+      "version": "1.200",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/PRAGMATA_DE.jpg",
+      "description": "Tags: PPSA02530, v01.200, USA, 5.xx BackPork\nSize: 85GB\nCredits: Files: SiESPTA & DUPLEX; Backport: BestPig & rocknard",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "aHR0cHM6Ly92aWtpbmdmaWxlLmNvbS9mL292czBJcEF3NjM="
+        },
+        {
+          "name": "FileKeeper",
+          "url": "aHR0cHM6Ly9maWxla2VlcGVyLm5ldC94a2tidHJpbzY4MWUvUFBTQTAyNTMwXy1fUHJhZ21hdGEuZmZwZnNj"
+        }
+      ],
+      "sizeBytes": 38504381808
+    },
+    {
+      "titleId": "PPSA25286",
+      "title": "Crimson Desert Deluxe Edition",
+      "version": "1.000.151",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Crimson_Desert_Deluxe_Edition.avif",
+      "description": "Tags: PPSA25286, v01.000.151, USA, 5.xx BackPork",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "aHR0cHM6Ly92aWtpbmdmaWxlLmNvbS9mL0h3OGxNZDJ1SDg="
+        }
+      ],
+      "notes":"How to play: Press START/Options - Add-on right after starting a new game. You can equip them after the prologue.",
+      "sizeBytes": 95192547328
+    },
+
+    {
+      "titleId": "PPSA21564",
+      "title": "ASTRO BOT",
+      "version": "1.007",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/ASTRO_BOT.avif",
+      "description": "Tags: PPSA21564, v01.007, USA, 9.xx +",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "aHR0cHM6Ly92aWtpbmdmaWxlLmNvbS9mL0syTERNbXkxam0="
+        }
+      ],
+      "sizeBytes": 48868556800
+    },
+    {
+      "titleId": "PPSA26344",
+      "title": "Ghost of Yotei: Deluxe Edition",
+      "version": "1.008.000",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Ghost_of_Yotei_Deluxe_Edition.png",
+      "description": "Tags: PPSA26344, v1.008.000, USA, 4.xx BackPork",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "aHR0cHM6Ly92aWtpbmdmaWxlLmNvbS9mL0QzQUJ6YXFUaVI="
+        },
+        {
+          "name":"DLC (PKG – DUPLEX) - Viki",
+          "url": "aHR0cHM6Ly92aWsxbmdmaWxlLnNpdGUvZi9FYXp5RzBWUzJY"
+        }
+      ],
+      "sizeBytes": 102965116928
+    },
+    {
+      "titleId": "PPSA05521",
+      "title": "PAW Patrol Grand Prix",
+      "version": "1.000",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202208/0308/6rarIXeFEnJ8BKeL5vLJmojC.jpg",
+      "description": "Tags: PPSA05521, v1.00, EUR, 5.xx +",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "aHR0cHM6Ly92aWtpbmdmaWxlLmNvbS9mLzAzSzdyaUV6Qmw="
+        }
+      ],
+      "sizeBytes": 2163736576
+    },
+    {
+      "titleId": "PPSA28180",
+      "title": "Days Gone Remastered",
+      "version": "1.036.178",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Days_Gone_Remastered.png",
+      "description": "Tags: PPSA28180, v1.036.178, USA, 4.xx +",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "aHR0cHM6Ly92aWtpbmdmaWxlLmNvbS9mL3FBRWtLUGtDREo="
+        }
+      ],
+      "sizeBytes": 38384500736
+    }
+  ]
+}
