@@ -7,6 +7,7 @@ const CREDITS = [
   'Drakmor',
   'High-Speed007',
   'PS5 Jailbreak Pinas Community',
+  'TeamPHU',
 ];
 
 export default function CreditsModal({ onClose }) {

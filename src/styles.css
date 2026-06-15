@@ -364,6 +364,11 @@ main { padding: 32px; max-width: 1400px; margin: 0 auto; }
   font-size: 0.95rem;
 }
 .thanks p strong { color: var(--text); }
+.thanks p a {
+  color: var(--primary);
+  text-decoration: none;
+}
+.thanks p a:hover { text-decoration: underline; }
 .btn.primary {
   background: var(--primary);
   border-color: var(--primary);
