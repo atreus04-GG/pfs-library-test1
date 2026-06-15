@@ -1,6 +1,37 @@
 {
   "name": "PFS Game Catalog",
-  "packages": [
+  "packages": [     
+    {
+      "titleId": "PPSA22327",
+      "title": "Forza Horizon 5",
+      "version": "1.685.672",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202501/2717/42b3ee6b1b2094212231b0b0a82824f687fc5c4dc9bde31c.png",
+      "description": "Tags: PPSA22327, v01.685.672, USA, 12.xx – 10.xx",
+      "downloadLinks": [
+        {
+          "name": "Reuploading due to dead link",
+          "url": ""
+        }
+      ],
+      "notes": "How to Play (Ignore this if you already have an account with fake sign-in enabled): \nDownload OffAct by ps5-payload-dev and activate the account (it is recommended to use a new account). \nThen download np-fake-signin by earthonion and send the .elf file to your PS5.\nBefore restarting the console, set your connection DNS to 127.0.0.1 or disable the internet connection entirely.",
+      "sizeBytes": 175191019683.84
+    }, 
+    {
+      "titleId": "PPSA01870",
+      "title": "FarCry 6",
+      "version": "1.000.013",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/img/rnd/202106/1514/xqoTYwf0S55ro6fwcIIY1KI4.png",
+      "description": "Tags: PPSA01870, v01.000.013, EUR, 4.xx +, APR, apr-emu-v0.2.7.6",
+      "downloadLinks": [
+        {
+          "name": "Uploading...",
+          "url": ""
+        }
+      ],
+      "sizeBytes": 124221191618.56
+    },
     {
       "titleId": "PPSA20396",
       "title": "Assassins Creed Shadows",
@@ -215,37 +246,6 @@
         }        
       ],
       "sizeBytes": 88293515326
-    },
-    {
-      "titleId": "PPSA01870",
-      "title": "FarCry 6",
-      "version": "1.000.013",
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/img/rnd/202106/1514/xqoTYwf0S55ro6fwcIIY1KI4.png",
-      "description": "Tags: PPSA01870, v01.000.013, EUR, 4.xx +, APR",
-      "downloadLinks": [
-        {
-          "name": "Viki (Credits: Walid Maachi)",
-          "url": "aHR0cHM6Ly92aWsxbmdmaWxlLnNpdGUvZi94ODF3VVd1T2xM"
-        }
-      ],
-      "sizeBytes": 124221191618.56
-    },
-    {
-      "titleId": "PPSA22327",
-      "title": "Forza Horizon 5",
-      "version": "1.685.672",
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202501/2717/42b3ee6b1b2094212231b0b0a82824f687fc5c4dc9bde31c.png",
-      "description": "Tags: PPSA22327, v01.685.672, USA, 12.xx – 10.xx",
-      "downloadLinks": [
-        {
-          "name": "Reuploading due to dead link",
-          "url": ""
-        }
-      ],
-      "notes": "How to Play (Ignore if you already have account with fake sign in): Download offact by ps5-payload-dev and active the account (better if is a new one) then download np-fake-signin by earthonion, send the .elf to your PS5 and before restart the console on your connection add this DNS “127.0.0.1” or turn off the connection.",
-      "sizeBytes": 175191019683.84
     },
     {
       "titleId": "PPSA15211",
