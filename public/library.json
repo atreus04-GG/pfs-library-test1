@@ -104,8 +104,8 @@
       "description": "Tags: PPSA22327, v01.685.672, USA, 12.xx – 10.xx",
       "downloadLinks": [
         {
-          "name": "Viki (Credits: Roy Choo)",
-          "url": "aHR0cHM6Ly92aWsxbmdmaWxlLnNpdGUvZi9CR1ZuR1hBcm1rI1BQU0EyMjMyNw=="
+          "name": "Reuploading due to dead link",
+          "url": ""
         }
       ],
       "notes": "How to Play (Ignore if you already have account with fake sign in): Download offact by ps5-payload-dev and active the account (better if is a new one) then download np-fake-signin by earthonion, send the .elf to your PS5 and before restart the console on your connection add this DNS “127.0.0.1” or turn off the connection.",
