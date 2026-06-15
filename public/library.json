@@ -2,21 +2,6 @@
   "name": "PFS Game Catalog",
   "packages": [
     {
-      "titleId": "PPSA08668",
-      "title": "Final Fantasy VII Rebirth",
-      "version": "1.080",
-      "category": "game",
-      "posterUrl": "https://cdn11.bigcommerce.com/s-6rs11v9w2d/images/stencil/1280x1280/products/3054/16401/FFVII_RB_AG_US__55522.1709208257.jpg?c=1",
-      "description": "Tags: PPSA08668, v01.080, EUR, 12.xx to 9.xx",
-      "downloadLinks": [
-        {
-          "name": "Uploading...",
-          "url": ""
-        }
-      ],
-      "sizeBytes": 171400626176
-    },
-    {
       "titleId": "PPSA31246",
       "title": "Resident Evil Requiem Deluxe Edition",
       "version": "1.200",
