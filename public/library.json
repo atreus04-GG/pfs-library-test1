@@ -17,6 +17,25 @@
       "sizeBytes": 171400626176
     },
     {
+      "titleId": "PPSA28180",
+      "title": "Days Gone Remastered",
+      "version": "1.036.178",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Days_Gone_Remastered.png",
+      "description": "Tags: PPSA28180, v1.036.178, USA, 4.xx +",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "aHR0cHM6Ly92aWtpbmdmaWxlLmNvbS9mL3FBRWtLUGtDREo="
+        },
+        {
+          "name": "FileKeeper",
+          "url": "aHR0cHM6Ly9maWxla2VlcGVyLm5ldC8ycHY2cWt6bjU1Y3YvUFBTQTI4MTgwXy1fRGF5c19Hb25lX1JlbWFzdGVyZWQuZmZwZnNj"
+        }
+      ],
+      "sizeBytes": 38384500736
+    },
+    {
       "titleId": "PPSA04609",
       "title": "ELDEN RING Shadow of the Erdtree Edition",
       "version": "1.017",
@@ -581,21 +600,6 @@
         }
       ],
       "sizeBytes": 2163736576
-    },
-    {
-      "titleId": "PPSA28180",
-      "title": "Days Gone Remastered",
-      "version": "1.036.178",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Days_Gone_Remastered.png",
-      "description": "Tags: PPSA28180, v1.036.178, USA, 4.xx +",
-      "downloadLinks": [
-        {
-          "name": "Viki",
-          "url": "aHR0cHM6Ly92aWtpbmdmaWxlLmNvbS9mL3FBRWtLUGtDREo="
-        }
-      ],
-      "sizeBytes": 38384500736
     }
   ]
 }
