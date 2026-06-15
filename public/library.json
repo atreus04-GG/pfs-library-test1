@@ -2,6 +2,21 @@
   "name": "PFS Game Catalog",
   "packages": [
     {
+      "titleId": "PPSA20396",
+      "title": "Assassins Creed Shadows",
+      "version": "1.019.076",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Assassins_Creed_Shadows.avif",
+      "description": "Tags: PPSA20396, v01.019.076, USA to EUR Languages, 4.xx +, APR, apr-emu-v0.2.7.6",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "aHR0cHM6Ly92aWtpbmdmaWxlLmNvbS9mL0xWSW1HM2RxU3k="
+        }
+      ],
+      "sizeBytes": 152070520832
+    },
+    {
       "titleId": "PPSA31246",
       "title": "Resident Evil Requiem Deluxe Edition",
       "version": "1.200",
@@ -538,21 +553,6 @@
         }
       ],
       "sizeBytes": 101437276160
-    },
-    {
-      "titleId": "PPSA20396",
-      "title": "Assassins Creed Shadows",
-      "version": "1.019.076",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Assassins_Creed_Shadows.avif",
-      "description": "Tags: PPSA20396, v01.019.076, USA to EUR Languages, 4.xx +, APR",
-      "downloadLinks": [
-        {
-          "name": "Viki",
-          "url": "aHR0cHM6Ly92aWtpbmdmaWxlLmNvbS9mLzFjUzJjejFLVmM="
-        }
-      ],
-      "sizeBytes": 152070520832
     },
     {
       "titleId": "PPSA10595",
