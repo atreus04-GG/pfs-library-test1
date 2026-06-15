@@ -12,7 +12,7 @@ import CaptchaGate from './components/CaptchaGate.jsx';
 const PAGE_SIZE = 10;
 const THANKS_DISMISSED_KEY = 'pfs-thanks-dismissed';
 const CAPTCHA_VERIFIED_KEY = 'pfs-captcha-verified';
-const CAPTCHA_TTL_MS = 24 * 60 * 60 * 1000; // 1 day
+const CAPTCHA_TTL_MS = 3 * 60 * 60 * 1000; // 3 hours
 
 function isCaptchaVerified() {
   try {
