@@ -17,6 +17,25 @@
       "sizeBytes": 171400626176
     },
     {
+      "titleId": "PPSA21564",
+      "title": "ASTRO BOT",
+      "version": "1.007",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/ASTRO_BOT.avif",
+      "description": "Tags: PPSA21564, v01.007, USA, 4.xx +",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "aHR0cHM6Ly92aWtpbmdmaWxlLmNvbS9mL0syTERNbXkxam0="
+        },
+        {
+          "name": "Viki (Backport 4.xx) (Credits: TeamPHU)",
+          "url": "aHR0cHM6Ly92aWtpbmdmaWxlLmNvbS9mL1RJREViUkNpaG0="
+        }
+      ],
+      "sizeBytes": 48868556800
+    },
+    {
       "titleId": "PPSA01474",
       "title": "Ratchet & Clank Rift Apart",
       "version": "1.005.003",
@@ -562,22 +581,6 @@
       ],
       "notes":"How to play: Press START/Options - Add-on right after starting a new game. You can equip them after the prologue.",
       "sizeBytes": 95192547328
-    },
-
-    {
-      "titleId": "PPSA21564",
-      "title": "ASTRO BOT",
-      "version": "1.007",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/ASTRO_BOT.avif",
-      "description": "Tags: PPSA21564, v01.007, USA, 9.xx +",
-      "downloadLinks": [
-        {
-          "name": "Viki",
-          "url": "aHR0cHM6Ly92aWtpbmdmaWxlLmNvbS9mL0syTERNbXkxam0="
-        }
-      ],
-      "sizeBytes": 48868556800
     },
     {
       "titleId": "PPSA26344",
