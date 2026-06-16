@@ -2,6 +2,40 @@
   "name": "PFS Game Catalog",
   "packages": [ 
     {
+      "titleId": "PPSA01285",
+      "title": "Returnal",
+      "version": "3.005",
+      "category": "game",
+      "posterUrl": "https://upload.wikimedia.org/wikipedia/en/9/91/Returnal_cover_art.jpg",
+      "description": "Tags: PPSA01285, v03.005, EUR, 4.xx +",
+      "downloadLinks": [
+        {
+          "name": "F* Fast (Credits: Ultimate Jailbreak Pinas Sensei)",
+          "url": "aHR0cHM6Ly9mdWNraW5nZmFzdC5uZXQvNnBwZ2J0N2h5ZXIw"
+        }
+      ],
+      "sizeBytes": 66452181402.4
+    },
+    {
+      "titleId": "PPSA26786",
+      "title": "Indiana Jones and The Great Circle: Premium Edition",
+      "version": "1.009",
+      "category": "game",
+      "posterUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Indiana_Jones_and_the_Great_Circle-box_art.jpg/250px-Indiana_Jones_and_the_Great_Circle-box_art.jpg",
+      "description": "Tags: PPSA26786, v01.009, USA, 4.xx +",
+      "downloadLinks": [
+        {
+          "name": "F* Fast (Credits: Ultimate Jailbreak Pinas Sensei)",
+          "url": "aHR0cHM6Ly9mdWNraW5nZmFzdC5uZXQvZTRlOWpyb2UxMmNz"
+        },
+        {
+          "name": "DLC - F* Fast (Credits: Ultimate Jailbreak Pinas Sensei)",
+          "url": "aHR0cHM6Ly9mdWNraW5nZmFzdC5uZXQvemxtcGJlOHI0cDc4"
+        }
+      ],
+      "sizeBytes": 158722687180.8
+    },
+    {
       "titleId": "PPSA17232",
       "title": "Sniper Elite Resistance",
       "version": "1.010",
