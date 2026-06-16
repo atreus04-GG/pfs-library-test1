@@ -186,6 +186,14 @@ export default function App() {
       />
       <main>{renderBody()}</main>
       <footer className="site-footer">
+        <a
+          className="kofi-link"
+          href="https://ko-fi.com/tsuramatsu"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <span aria-hidden="true">☕</span> Support me on Ko-fi
+        </a>
         <p>
           <strong>DMCA Disclaimer:</strong> All files referenced in this catalog are
           provided for testing and educational purposes only. This site does not host

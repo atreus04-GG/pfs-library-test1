@@ -75,6 +75,17 @@ body {
 }
 .btn:hover { background: var(--border); }
 .btn.ghost { background: transparent; }
+.btn.kofi-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: #29abe0;
+  border-color: #29abe0;
+  color: #fff;
+  font-weight: 600;
+  text-decoration: none;
+}
+.btn.kofi-btn:hover { background: #1e90c0; border-color: #1e90c0; }
 .btn:disabled { opacity: 0.45; cursor: default; }
 .btn:disabled:hover { background: var(--surface-2); }
 
@@ -118,7 +129,23 @@ main { padding: 32px; max-width: 1400px; margin: 0 auto; }
   margin: 0 auto;
   padding: 16px 32px 40px;
   border-top: 1px solid var(--border);
+  text-align: center;
 }
+.kofi-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 16px;
+  padding: 8px 18px;
+  background: #29abe0;
+  color: #fff;
+  font-size: 0.85rem;
+  font-weight: 600;
+  border-radius: 999px;
+  text-decoration: none;
+  transition: background 0.15s ease;
+}
+.kofi-link:hover { background: #1e90c0; }
 .site-footer p {
   margin: 0;
   color: var(--muted);

@@ -45,6 +45,14 @@ export default function Topbar({
         <button className="btn ghost" onClick={onShowCredits}>
           Credits
         </button>
+        <a
+          className="btn kofi-btn"
+          href="https://ko-fi.com/tsuramatsu"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <span aria-hidden="true">☕</span> Ko-fi
+        </a>
       </div>
     </header>
   );
