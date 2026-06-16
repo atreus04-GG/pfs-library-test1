@@ -29,8 +29,12 @@
       "description": "Tags: PPSA26344, v1.008.000, USA, 4.xx BackPork",
       "downloadLinks": [
         {
-          "name": "F* Fast",
+          "name": "F* Fast (4.xx Backport)",
           "url": "aHR0cHM6Ly9mdWNraW5nZmFzdC5uZXQvcG9mbWZ5bGF6eWlj"
+        },
+        {
+          "name": "F* Fast (11.xx +)",
+          "url": "aHR0cHM6Ly9mdWNraW5nZmFzdC5uZXQvNXFwNWJucjNpamxs"
         },
         {
           "name":"DLC (PKG – DUPLEX) - F* Fast",
