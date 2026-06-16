@@ -2,6 +2,22 @@
   "name": "PFS Game Catalog",
   "packages": [ 
     {
+      "titleId": "PPSA20396",
+      "title": "Assassins Creed Shadows",
+      "version": "1.019.076",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Assassins_Creed_Shadows.avif",
+      "description": "Tags: PPSA20396, v01.019.076, USA to EUR Languages, 4.xx +, APR, apr-emu-v0.2.7.6",
+      "downloadLinks": [
+        {
+          "name": "F* Fast",
+          "url": "aHR0cHM6Ly9mdWNraW5nZmFzdC5uZXQvNmh3cjM2MnZyczdl"
+        }
+      ],
+      "notes": "Note: USA to EUR Languages. 3D Audio must be off to avoid the crash on Initial Settings.",
+      "sizeBytes": 152070520832
+    },
+    {
       "titleId": "PPSA01870",
       "title": "FarCry 6",
       "version": "1.000.013",
@@ -73,22 +89,6 @@
       ],
       "notes": "How to Play (Ignore this if you already have an account with fake sign-in enabled): \nDownload OffAct by ps5-payload-dev and activate the account (it is recommended to use a new account). \nThen download np-fake-signin by earthonion and send the .elf file to your PS5.\nBefore restarting the console, set your connection DNS to 127.0.0.1 or disable the internet connection entirely.",
       "sizeBytes": 175191019683.84
-    },
-    {
-      "titleId": "PPSA20396",
-      "title": "Assassins Creed Shadows",
-      "version": "1.019.076",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Assassins_Creed_Shadows.avif",
-      "description": "Tags: PPSA20396, v01.019.076, USA to EUR Languages, 4.xx +, APR, apr-emu-v0.2.7.6",
-      "downloadLinks": [
-        {
-          "name": "Viki",
-          "url": "aHR0cHM6Ly92aWtpbmdmaWxlLmNvbS9mL0xWSW1HM2RxU3k="
-        }
-      ],
-      "notes": "Note: USA to EUR Languages. 3D Audio must be off to avoid the crash on Initial Settings.",
-      "sizeBytes": 152070520832
     },
     {
       "titleId": "PPSA31246",
