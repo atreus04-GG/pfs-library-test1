@@ -2,6 +2,81 @@
   "name": "PFS Game Catalog",
   "packages": [ 
     {
+      "titleId": "PPSA17232",
+      "title": "Sniper Elite Resistance",
+      "version": "1.010",
+      "category": "game",
+      "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzV_unnLTVHSsD8c6rDiTzWwQGjheNTxKF5A&s",
+      "description": "Tags: PPSA17232, v01.010, USA, 4.xx +",
+      "downloadLinks": [
+        {
+          "name": "F* Fast (Credits: Walid Maachi)",
+          "url": "aHR0cHM6Ly9mdWNraW5nZmFzdC5uZXQvaXZreXZrcXVkMjVk"
+        }
+      ],
+      "sizeBytes": 55617424076.8
+    },
+    {
+      "titleId": "PPSA27360",
+      "title": "EA SPORTS FC 26",
+      "version": "1.005",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202507/2511/824bd2ea826d3ac352d516c289229008ab687c655dd39450.png",
+      "description": "Tags: PPSA27360, v01.005, USA, 4.xx +",
+      "downloadLinks": [
+        {
+          "name": "F* Fast (Credits: Walid Maachi)",
+          "url": "aHR0cHM6Ly9mdWNraW5nZmFzdC5uZXQvdWtneHNuaW92eWUw"
+        }
+      ],
+      "sizeBytes": 132201109913.6
+    },
+    {
+      "titleId": "PPSA01490",
+      "title": "Assassins Creed Valhalla",
+      "version": "1.070",
+      "category": "game",
+      "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWfS5ajM5AxAQrcBnYhr8rWpPJOAqmN_z_eQ5trSlqBRNqpRdN2gCgkps5u3ehtBiV53OvLg&s=10",
+      "description": "Tags: PPSA01490, v01.070, EUR, 4.xx +, APR",
+      "downloadLinks": [
+        {
+          "name": "F* Fast (Credits: Walid Maachi)",
+          "url": "aHR0cHM6Ly9mdWNraW5nZmFzdC5uZXQvZTcwenNzejR6Z3Nv"
+        }
+      ],
+      "sizeBytes": 132201109913.6
+    },
+    {
+      "titleId": "PPSA01417",
+      "title": "Marvel's Spider-Man Miles Morales",
+      "version": "1.013.002",
+      "category": "game",
+      "posterUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQKcHEff0g5xPyrKCdLi4_i1iyXWrlHhza4j9AtZTTd6y3bv0cB",
+      "description": "Tags: PPSA01417, v01.013.002, EUR, 4.xx +, APR",
+      "downloadLinks": [
+        {
+          "name": "F* Fast (Credits: Walid Maachi)",
+          "url": "aHR0cHM6Ly9mdWNraW5nZmFzdC5uZXQvZTZpczB0N3hxdnV0"
+        }
+      ],
+      "sizeBytes": 56371445760
+    },
+    {
+      "titleId": "PPSA07580",
+      "title": "WRC Generations",
+      "version": "1.004",
+      "category": "game",
+      "posterUrl": "https://m.media-amazon.com/images/I/71EcCjNvamL.jpg",
+      "description": "Tags: PPSA07580, v01.004, USA, 4.xx +, APR",
+      "downloadLinks": [
+        {
+          "name": "F* Fast (Credits: Walid Maachi)",
+          "url": "aHR0cHM6Ly9mdWNraW5nZmFzdC5uZXQvMm5lNmZ2NHRqdGZj"
+        }
+      ],
+      "sizeBytes": 40480066764.8
+    },
+    {
       "titleId": "PPSA05347",
       "title": "Record of Lodoss War Deedlit in Wonder Labyrinth",
       "version": "1.001",
