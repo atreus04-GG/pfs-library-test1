@@ -11,6 +11,7 @@ export default function GameDetailsModal({ pkg, onClose }) {
   const hasRevealable = links.some(link => !isUploadingLink(link));
   const [unlocked, setUnlocked] = useState(false);
   const showCaptcha = hasRevealable && !unlocked;
+  const linksRevealed = hasRevealable && unlocked;
 
   return (
     <Modal onClose={onClose}>
@@ -33,6 +34,13 @@ export default function GameDetailsModal({ pkg, onClose }) {
           </>
         )}
 
+        {linksRevealed && (
+          <p className="link-hint">
+            Links are <strong>Base64 encoded</strong>. Decode them using an online
+            decoder to access the links.
+          </p>
+        )}
+
         {pkg.notes && (
           <>
             <h3>Notes</h3>
@@ -51,11 +59,6 @@ export default function GameDetailsModal({ pkg, onClose }) {
               />
             </div>
           ) : (
-          <>
-          <p className="link-hint">
-            Links are <strong>Base64 encoded</strong>. Decode them using an online
-            decoder to access the links.
-          </p>
           <ul className="link-list">
             {links.map((link, i) => {
               const uploading = isUploadingLink(link);
@@ -76,7 +79,6 @@ export default function GameDetailsModal({ pkg, onClose }) {
               );
             })}
           </ul>
-          </>
           )
         ) : (
           <p className="muted">No links available.</p>

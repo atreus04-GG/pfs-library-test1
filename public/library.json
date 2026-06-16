@@ -2,6 +2,40 @@
   "name": "PFS Game Catalog",
   "packages": [ 
     {
+      "titleId": "PPSA17599",
+      "title": "Clair Obscur: Expedition 33",
+      "version": "1.500.300",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202501/2217/15dd9f9368aa87c9b2dcaf58e1856e8cca01b6e595331858.jpg",
+      "description": "Tags: PPSA17599, v01.500.300, EUR, 4.xx +",
+      "downloadLinks": [
+        {
+          "name": "F* Fast (Credits: Ultimate Jailbreak Pinas Sensei)",
+          "url": "aHR0cHM6Ly9mdWNraW5nZmFzdC5uZXQvYWRkdDhiemN0bXpw"
+        },
+        {
+          "name": "F* Fast - DLC (Credits: Ultimate Jailbreak Pinas Sensei)",
+          "url": "aHR0cHM6Ly9mdWNraW5nZmFzdC5uZXQvZnR1ZmlmZW01dzAz"
+        }
+      ],
+      "sizeBytes": 47673366835.2
+    },
+    {
+      "titleId": "PPSA01443",
+      "title": "Devil May Cry 5 Special Edition",
+      "version": "1.000",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202009/1710/UUnpHLJqLAIJX5HioswiPuAm.png",
+      "description": "Tags: PPSA01443, v01.000, EUR, 4.xx +",
+      "downloadLinks": [
+        {
+          "name": "F* Fast (Credits: Ultimate Jailbreak Pinas Sensei)",
+          "url": "aHR0cHM6Ly9mdWNraW5nZmFzdC5uZXQvNm50dWIwcm4xd2Nk"
+        }
+      ],
+      "sizeBytes": 46599625011.2
+    },
+    {
       "titleId": "PPSA22327",
       "title": "Forza Horizon 5",
       "version": "1.685.672",
