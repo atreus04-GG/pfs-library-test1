@@ -1,6 +1,25 @@
 {
   "name": "PFS Game Catalog",
-  "packages": [         
+  "packages": [ 
+    {
+      "titleId": "PPSA01870",
+      "title": "FarCry 6",
+      "version": "1.000.013",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/img/rnd/202106/1514/xqoTYwf0S55ro6fwcIIY1KI4.png",
+      "description": "Tags: PPSA01870, v01.000.013, EUR, 4.xx +, APR, apr-emu-v0.2.7.6",
+      "downloadLinks": [
+        {
+          "name": "1fichier",
+          "url": "aHR0cHM6Ly8xZmljaGllci5jb20vPzg3d3VlMzhpZTdoMWY1Z295eXh3"
+        },
+        {
+          "name": "F* Fast",
+          "url": "aHR0cHM6Ly9mdWNraW5nZmFzdC5uZXQvYXJrZ2F0aWozczZj"
+        }
+      ],
+      "sizeBytes": 124221191618.56
+    },     
     {
       "titleId": "PPSA26344",
       "title": "Ghost of Yotei: Deluxe Edition",
@@ -50,21 +69,6 @@
       ],
       "notes": "How to Play (Ignore this if you already have an account with fake sign-in enabled): \nDownload OffAct by ps5-payload-dev and activate the account (it is recommended to use a new account). \nThen download np-fake-signin by earthonion and send the .elf file to your PS5.\nBefore restarting the console, set your connection DNS to 127.0.0.1 or disable the internet connection entirely.",
       "sizeBytes": 175191019683.84
-    }, 
-    {
-      "titleId": "PPSA01870",
-      "title": "FarCry 6",
-      "version": "1.000.013",
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/img/rnd/202106/1514/xqoTYwf0S55ro6fwcIIY1KI4.png",
-      "description": "Tags: PPSA01870, v01.000.013, EUR, 4.xx +, APR, apr-emu-v0.2.7.6",
-      "downloadLinks": [
-        {
-          "name": "1fichier",
-          "url": "aHR0cHM6Ly8xZmljaGllci5jb20vPzg3d3VlMzhpZTdoMWY1Z295eXh3"
-        }
-      ],
-      "sizeBytes": 124221191618.56
     },
     {
       "titleId": "PPSA20396",
