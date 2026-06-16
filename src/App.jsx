@@ -1,6 +1,6 @@
 import { useState, useMemo, useEffect } from 'react';
 import { useLibrary } from './hooks/useLibrary.js';
-import { isUploading } from './utils/format.js';
+import { isUploading, isUploadingLink, decodeBase64 } from './utils/format.js';
 import Topbar from './components/Topbar.jsx';
 import GameTile from './components/GameTile.jsx';
 import GameDetailsModal from './components/GameDetailsModal.jsx';
@@ -8,6 +8,7 @@ import Pagination from './components/Pagination.jsx';
 import ThanksModal from './components/ThanksModal.jsx';
 import CreditsModal from './components/CreditsModal.jsx';
 import HowToModal from './components/HowToModal.jsx';
+import ExportProgressModal from './components/ExportProgressModal.jsx';
 import CaptchaGate from './components/CaptchaGate.jsx';
 
 const PAGE_SIZE = 10;
@@ -45,6 +46,7 @@ export default function App() {
   const [selected, setSelected] = useState(null);
   const [showCredits, setShowCredits] = useState(false);
   const [showHowTo, setShowHowTo] = useState(false);
+  const [exportProgress, setExportProgress] = useState(null);
   const [page, setPage] = useState(1);
   const [showThanks, setShowThanks] = useState(() => {
   try {
@@ -93,6 +95,64 @@ export default function App() {
     } catch {
       /* ignore storage errors */
     }
+  };
+
+  const handleExport = async () => {
+    if (exportProgress !== null) {
+      return;
+    }
+
+    const packages = data.packages.filter((pkg) => !isUploading(pkg));
+    const total = packages.length || 1;
+    const exported = [];
+
+    setExportProgress(0);
+
+    for (let i = 0; i < packages.length; i++) {
+      const pkg = packages[i];
+      const downloadLinks = (pkg.downloadLinks || [])
+        .filter((link) => !isUploadingLink(link))
+        .map((link) => ({
+          name: link.name || 'Download',
+          url: decodeBase64(link.url),
+        }))
+        .filter((link) => link.url);
+
+      exported.push({
+        titleId: pkg.titleId,
+        title: pkg.title,
+        version: pkg.version,
+        posterUrl: pkg.posterUrl,
+        description: pkg.description,
+        downloadLinks,
+      });
+
+      setExportProgress(Math.round(((i + 1) / total) * 100));
+      // Yield to the browser so the progress bar can repaint between packages.
+      await new Promise((resolve) => setTimeout(resolve, 0));
+    }
+
+    const payload = { name: data.name, packages: exported };
+    const blob = new Blob([JSON.stringify(payload, null, 2)], {
+      type: 'application/json',
+    });
+    const url = URL.createObjectURL(blob);
+    const fileName =
+      (data.name || 'catalog')
+        .replace(/[^a-z0-9]+/gi, '-')
+        .replace(/^-+|-+$/g, '')
+        .toLowerCase() || 'catalog';
+
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = `${fileName}.json`;
+    document.body.appendChild(a);
+    a.click();
+    a.remove();
+    URL.revokeObjectURL(url);
+
+    setExportProgress(100);
+    setTimeout(() => setExportProgress(null), 800);
   };
 
   const filtered = useMemo(() => {
@@ -183,6 +243,7 @@ export default function App() {
         onToggleView={() => setViewMode(v => v === 'grid' ? 'list' : 'grid')}
         onShowCredits={() => setShowCredits(true)}
         onShowHowTo={() => setShowHowTo(true)}
+        onExport={handleExport}
       />
       <main>{renderBody()}</main>
       <footer className="site-footer">
@@ -204,6 +265,7 @@ export default function App() {
       {showThanks && <ThanksModal onClose={dismissThanks} />}
       {showCredits && <CreditsModal onClose={() => setShowCredits(false)} />}
       {showHowTo && <HowToModal onClose={() => setShowHowTo(false)} />}
+      {exportProgress !== null && <ExportProgressModal progress={exportProgress} />}
       {selected && (
         <GameDetailsModal pkg={selected} onClose={() => setSelected(null)} />
       )}

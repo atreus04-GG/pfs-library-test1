@@ -34,6 +34,19 @@ export function isUploading(pkg) {
   return links.length > 0 && links.every(isUploadingLink);
 }
 
+// Decode a Base64-encoded string (UTF-8 safe). Returns the input unchanged
+// if it isn't valid Base64 (e.g. an already-plain URL).
+export function decodeBase64(str) {
+  if (!str) return '';
+  try {
+    const binary = atob(str);
+    const bytes = Uint8Array.from(binary, (c) => c.charCodeAt(0));
+    return new TextDecoder().decode(bytes);
+  } catch {
+    return str;
+  }
+}
+
 function splitTags(str) {
   return str
     .split(',')

@@ -6,7 +6,8 @@ export default function Topbar({
   viewMode,
   onToggleView,
   onShowCredits,
-  onShowHowTo
+  onShowHowTo,
+  onExport
 }) {
   return (
     <header className="topbar">
@@ -41,6 +42,9 @@ export default function Topbar({
         </button>
         <button className="btn ghost" onClick={onShowHowTo}>
           How to Access
+        </button>
+        <button className="btn ghost" onClick={onExport}>
+          Export JSON
         </button>
         <button className="btn ghost" onClick={onShowCredits}>
           Credits
