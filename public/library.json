@@ -2,6 +2,25 @@
   "name": "PFS Game Catalog",
   "packages": [ 
     {
+      "titleId": "PPSA05347",
+      "title": "Record of Lodoss War Deedlit in Wonder Labyrinth",
+      "version": "1.001",
+      "category": "game",
+      "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeyPsiYePIGY_u1aXcOO3mySu5eUbFL_D8vZo6SoicTPbbj8FyMR-pAjjlkBMhox-UZ99z&s=10",
+      "description": "Tags: PPSA05347, v01.001, USA, 4.xx +",
+      "downloadLinks": [
+        {
+          "name": "F* Fast (Credits: Ultimate Jailbreak Pinas Sensei)",
+          "url": "aHR0cHM6Ly9mdWNraW5nZmFzdC5uZXQvYWRkdDhiemN0bXpw"
+        },
+        {
+          "name": "F* Fast - DLC (Credits: Ultimate Jailbreak Pinas Sensei)",
+          "url": "aHR0cHM6Ly9mdWNraW5nZmFzdC5uZXQvY2szejFlaGUyZjh1"
+        }
+      ],
+      "sizeBytes": 47673366835.2
+    },
+    {
       "titleId": "PPSA17599",
       "title": "Clair Obscur: Expedition 33",
       "version": "1.500.300",
