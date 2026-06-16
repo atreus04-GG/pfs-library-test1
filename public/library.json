@@ -1,6 +1,21 @@
 {
   "name": "PFS Game Catalog",
   "packages": [     
+     {
+      "titleId": "PPSA02384",
+      "title": "Yakuza Like A Dragon Hero Edition",
+      "version": "1.003",
+      "category": "game",
+      "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF4bi8DYjX6mX4iNgKc4qdAkOtBg4QABE1Jw&s",
+      "description": "Tags: PPSA02384, v01.003, EUR, 2.xx +",
+      "downloadLinks": [
+        {
+          "name": "F* Fast",
+          "url": "aHR0cHM6Ly9mdWNraW5nZmFzdC5uZXQvbmwwaXJsNGFreXZh"
+        }
+      ],
+      "sizeBytes": 45311943475.2
+    }, 
     {
       "titleId": "PPSA22327",
       "title": "Forza Horizon 5",
