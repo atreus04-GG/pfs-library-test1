@@ -2,6 +2,22 @@
   "name": "PFS Game Catalog",
   "packages": [ 
     {
+      "titleId": "PPSA22327",
+      "title": "Forza Horizon 5",
+      "version": "1.685.672",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202501/2717/42b3ee6b1b2094212231b0b0a82824f687fc5c4dc9bde31c.png",
+      "description": "Tags: PPSA22327, v01.685.672, USA, 12.xx – 10.xx",
+      "downloadLinks": [
+        {
+          "name": "F* Fast",
+          "url": "aHR0cHM6Ly9mdWNraW5nZmFzdC5uZXQvbTRsMXlvaXE1bHZ0"
+        }
+      ],
+      "notes": "How to Play (Ignore this if you already have an account with fake sign-in enabled): \nDownload OffAct by ps5-payload-dev and activate the account (it is recommended to use a new account). \nThen download np-fake-signin by earthonion and send the .elf file to your PS5.\nBefore restarting the console, set your connection DNS to 127.0.0.1 or disable the internet connection entirely.",
+      "sizeBytes": 175191019683.84
+    },
+    {
       "titleId": "PPSA25286",
       "title": "Crimson Desert Deluxe Edition",
       "version": "1.000.151",
@@ -94,22 +110,6 @@
       ],
       "sizeBytes": 45311943475.2
     }, 
-    {
-      "titleId": "PPSA22327",
-      "title": "Forza Horizon 5",
-      "version": "1.685.672",
-      "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202501/2717/42b3ee6b1b2094212231b0b0a82824f687fc5c4dc9bde31c.png",
-      "description": "Tags: PPSA22327, v01.685.672, USA, 12.xx – 10.xx",
-      "downloadLinks": [
-        {
-          "name": "Reuploading due to dead link",
-          "url": ""
-        }
-      ],
-      "notes": "How to Play (Ignore this if you already have an account with fake sign-in enabled): \nDownload OffAct by ps5-payload-dev and activate the account (it is recommended to use a new account). \nThen download np-fake-signin by earthonion and send the .elf file to your PS5.\nBefore restarting the console, set your connection DNS to 127.0.0.1 or disable the internet connection entirely.",
-      "sizeBytes": 175191019683.84
-    },
     {
       "titleId": "PPSA31246",
       "title": "Resident Evil Requiem Deluxe Edition",
