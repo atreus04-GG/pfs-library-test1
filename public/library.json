@@ -2,6 +2,26 @@
   "name": "PFS Game Catalog",
   "packages": [ 
     {
+      "titleId": "PPSA25286",
+      "title": "Crimson Desert Deluxe Edition",
+      "version": "1.000.151",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Crimson_Desert_Deluxe_Edition.avif",
+      "description": "Tags: PPSA25286, v01.000.151, USA, 5.xx BackPork",
+      "downloadLinks": [
+        {
+          "name": "F* Fast",
+          "url": "aHR0cHM6Ly9mdWNraW5nZmFzdC5uZXQvZTN5aHpvNjByZ3My"
+        },
+        {
+          "name": "FileKeeper",
+          "url": "aHR0cHM6Ly9maWxla2VlcGVyLm5ldC84dTV2YjVtdG1odzcvUFBTQTI1Mjg2Xy1fQ3JpbXNvbl9EZXNlcnQuZmZwZnNj"
+        }
+      ],
+      "notes":"How to play: Press START/Options - Add-on right after starting a new game. You can equip them after the prologue.",
+      "sizeBytes": 95192547328
+    },
+    {
       "titleId": "PPSA20396",
       "title": "Assassins Creed Shadows",
       "version": "1.019.076",
@@ -669,26 +689,6 @@
         }
       ],
       "sizeBytes": 38504381808
-    },
-    {
-      "titleId": "PPSA25286",
-      "title": "Crimson Desert Deluxe Edition",
-      "version": "1.000.151",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Crimson_Desert_Deluxe_Edition.avif",
-      "description": "Tags: PPSA25286, v01.000.151, USA, 5.xx BackPork",
-      "downloadLinks": [
-        {
-          "name": "Viki",
-          "url": "aHR0cHM6Ly92aWtpbmdmaWxlLmNvbS9mL0h3OGxNZDJ1SDg="
-        },
-        {
-          "name": "FileKeeper",
-          "url": "aHR0cHM6Ly9maWxla2VlcGVyLm5ldC84dTV2YjVtdG1odzcvUFBTQTI1Mjg2Xy1fQ3JpbXNvbl9EZXNlcnQuZmZwZnNj"
-        }
-      ],
-      "notes":"How to play: Press START/Options - Add-on right after starting a new game. You can equip them after the prologue.",
-      "sizeBytes": 95192547328
     },
     {
       "titleId": "PPSA05521",
