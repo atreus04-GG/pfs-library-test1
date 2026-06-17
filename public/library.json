@@ -1,6 +1,21 @@
 {
   "name": "PFS Game Catalog",
-  "packages": [ 
+  "packages": [
+    {
+      "titleId": "PPSA01716",
+      "title": "Need for Speed Unbound",
+      "version": "1.029",
+      "category": "game",
+      "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAkE_MV7rn1I2-UHRPcujlyDu_J4QvKNvufFcGBcuvhQS2FK7Ar5Lpg048Tms3A35vkYdR&s=10",
+      "description": "Tags: PPSA01716, v01.029, USA, 4.xx +",
+      "downloadLinks": [
+        {
+          "name": "F* Fast",
+          "url": "aHR0cHM6Ly9mdWNraW5nZmFzdC5uZXQvNmk3NHpoejluaGto"
+        }
+      ],
+      "sizeBytes": 33554825216
+    }, 
     {
       "titleId": "PPSA01285",
       "title": "Returnal",
