@@ -2,6 +2,22 @@
   "name": "PFS Game Catalog",
   "packages": [
     {
+      "titleId": "PPSA10664",
+      "title": "Final Fantasy 16",
+      "version": "1.003.004",
+      "category": "game",
+      "posterUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Final_Fantasy_XVI_cover_art.png/250px-Final_Fantasy_XVI_cover_art.png",
+      "description": "Tags: PPSA10664, v01.003.004, USA, 6.xx +, APR, apr-emu-v0.2.7.6",
+      "downloadLinks": [
+        {
+          "name": "F* Fast",
+          "url": "https://fuckingfast.net/y3193u7h6juz"
+        }
+      ],
+      "notes": "Set Graphics Mode to Performance to proceed past the initial setup.",
+      "sizeBytes": 114341838848
+    },
+    {
       "titleId": "PPSA01716",
       "title": "Need for Speed Unbound",
       "version": "1.029",
@@ -125,7 +141,7 @@
       "version": "1.004",
       "category": "game",
       "posterUrl": "https://m.media-amazon.com/images/I/71EcCjNvamL.jpg",
-      "description": "Tags: PPSA07580, v01.004, USA, 4.xx +, APR",
+      "description": "Tags: PPSA07580, v01.004, USA, 4.xx +, APR, apr-emu-v0.2.6",
       "downloadLinks": [
         {
           "name": "F* Fast (Credits: Walid Maachi)",
@@ -273,8 +289,13 @@
         {
           "name": "DLC (PKG – DUPLEX) - F* Fast",
           "url": "https://fuckingfast.net/qu00518hi0uw"
+        },
+        {
+          "name": "DLC (11.x +) - F* Fast",
+          "url": "https://fuckingfast.net/fd5paknoq0b2"
         }
       ],
+      "notes": "DLC pkg is required for the game to work.\nFor FW 11.x, download the 11.x file. The 4.xx backport will not work on FW 11.x.",
       "sizeBytes": 102965116928
     },
     {
