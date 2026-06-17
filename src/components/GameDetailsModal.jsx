@@ -42,10 +42,12 @@ export default function GameDetailsModal({ pkg, onClose }) {
         )}
 
         {pkg.notes && (
-          <>
-            <h3>Notes</h3>
+          <div className="notes-callout">
+            <h3 className="notes-title">
+              <span aria-hidden="true">📌</span> Notes — please read
+            </h3>
             <p className="notes">{pkg.notes}</p>
-          </>
+          </div>
         )}
 
         {links.length ? (

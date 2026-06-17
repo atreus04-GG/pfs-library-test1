@@ -457,16 +457,31 @@ main { padding: 32px; max-width: 1400px; margin: 0 auto; }
 
 .muted { color: var(--muted); font-size: 0.9rem; }
 
+.notes-callout {
+  margin-top: 12px;
+  background: rgba(245, 158, 11, 0.1);
+  border: 1px solid rgba(245, 158, 11, 0.4);
+  border-left: 4px solid #f59e0b;
+  border-radius: 8px;
+  padding: 14px 16px;
+}
+.notes-callout .notes-title {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 0 0 8px;
+  font-size: 0.9rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #fbbf24;
+}
 .notes {
   margin: 0;
   color: var(--text);
-  font-size: 0.9rem;
-  line-height: 1.5;
+  font-size: 0.92rem;
+  line-height: 1.55;
   white-space: pre-line;
-  background: var(--surface-2);
-  border: 1px solid var(--border);
-  border-radius: 8px;
-  padding: 12px 14px;
 }
 
 .link-hint {

@@ -16,6 +16,17 @@ const THANKS_DISMISSED_KEY = 'pfs-thanks-dismissed';
 const CAPTCHA_VERIFIED_KEY = 'pfs-captcha-verified';
 const CAPTCHA_TTL_MS = 3 * 60 * 60 * 1000; // 3 hours
 
+function sanitizeUrl(url) {
+  let result = url;
+  // Drop the '#' fragment marker and everything after it.
+  const hashIndex = result.indexOf('#');
+  if (hashIndex !== -1) {
+    result = result.slice(0, hashIndex);
+  }
+  // Strip trailing newline(s).
+  return result.replace(/\n+$/, '');
+}
+
 function isCaptchaVerified() {
   try {
     const stored = localStorage.getItem(CAPTCHA_VERIFIED_KEY);
@@ -114,7 +125,7 @@ export default function App() {
         .filter((link) => !isUploadingLink(link))
         .map((link) => ({
           name: link.name || 'Download',
-          url: decodeBase64(link.url),
+          url: sanitizeUrl(decodeBase64(link.url)),
         }))
         .filter((link) => link.url);
 
