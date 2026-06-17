@@ -295,7 +295,7 @@
           "url": "aHR0cHM6Ly9mdWNraW5nZmFzdC5uZXQvZmQ1cGFrbm9xMGIy"
         }
       ],
-      "notes":"For FW 11.x, download the 11.x file. The 4.xx backport will not work on FW 11.x.",
+      "notes":"DLC pkg is required for the game to work.\nFor FW 11.x, download the 11.x file. The 4.xx backport will not work on FW 11.x.",
       "sizeBytes": 102965116928
     },
      {
