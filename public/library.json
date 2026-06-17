@@ -289,6 +289,10 @@
         {
           "name":"DLC (PKG – DUPLEX) - F* Fast",
           "url": "aHR0cHM6Ly9mdWNraW5nZmFzdC5uZXQvcXUwMDUxOGhpMHV3"
+        },
+        {
+          "name":"DLC (11.x +) - F* Fast",
+          "url": "aHR0cHM6Ly9mdWNraW5nZmFzdC5uZXQvZmQ1cGFrbm9xMGIy"
         }
       ],
       "notes":"For FW 11.x, download the 11.x file. The 4.xx backport will not work on FW 11.x.",
